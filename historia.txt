@@ -1,2 +1,4 @@
 Esta es la historia de Vitalino Matías
 Vitalino tiene 30 años de edad y nacio en Soloma departamento Huehuetenango
+
+agregando un parrafo mas a nuestro archivo
